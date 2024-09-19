@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#calculatrice {
+    border: red solid;
+    background-color: aqua;
+    padding: 20px;
+}
+
+button {
+    width: 40px;
+}
